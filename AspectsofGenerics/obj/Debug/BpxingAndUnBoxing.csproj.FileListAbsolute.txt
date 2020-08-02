@@ -1,0 +1,5 @@
+D:\Project\MVCProject\CoursesCSharpAdvance\AspectsofGenerics\bin\Debug\AspectsofGenerics.exe.config
+D:\Project\MVCProject\CoursesCSharpAdvance\AspectsofGenerics\bin\Debug\AspectsofGenerics.exe
+D:\Project\MVCProject\CoursesCSharpAdvance\AspectsofGenerics\bin\Debug\AspectsofGenerics.pdb
+D:\Project\MVCProject\CoursesCSharpAdvance\AspectsofGenerics\obj\Debug\AspectsofGenerics.exe
+D:\Project\MVCProject\CoursesCSharpAdvance\AspectsofGenerics\obj\Debug\AspectsofGenerics.pdb

@@ -1,0 +1,10 @@
+D:\Project\MVCProject\CoursesCSharpAdvance\PersianDate\bin\Debug\netcoreapp3.1\PersianDate.exe
+D:\Project\MVCProject\CoursesCSharpAdvance\PersianDate\bin\Debug\netcoreapp3.1\PersianDate.deps.json
+D:\Project\MVCProject\CoursesCSharpAdvance\PersianDate\bin\Debug\netcoreapp3.1\PersianDate.runtimeconfig.json
+D:\Project\MVCProject\CoursesCSharpAdvance\PersianDate\bin\Debug\netcoreapp3.1\PersianDate.runtimeconfig.dev.json
+D:\Project\MVCProject\CoursesCSharpAdvance\PersianDate\bin\Debug\netcoreapp3.1\PersianDate.dll
+D:\Project\MVCProject\CoursesCSharpAdvance\PersianDate\bin\Debug\netcoreapp3.1\PersianDate.pdb
+D:\Project\MVCProject\CoursesCSharpAdvance\PersianDate\obj\Debug\netcoreapp3.1\PersianDate.AssemblyInfoInputs.cache
+D:\Project\MVCProject\CoursesCSharpAdvance\PersianDate\obj\Debug\netcoreapp3.1\PersianDate.AssemblyInfo.cs
+D:\Project\MVCProject\CoursesCSharpAdvance\PersianDate\obj\Debug\netcoreapp3.1\PersianDate.dll
+D:\Project\MVCProject\CoursesCSharpAdvance\PersianDate\obj\Debug\netcoreapp3.1\PersianDate.pdb

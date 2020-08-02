@@ -1,0 +1,8 @@
+D:\Project\MVCProject\CoursesCSharpAdvance\chm\obj\Debug\chm.Form1.resources
+D:\Project\MVCProject\CoursesCSharpAdvance\chm\obj\Debug\chm.Properties.Resources.resources
+D:\Project\MVCProject\CoursesCSharpAdvance\chm\obj\Debug\chm.csproj.GenerateResource.cache
+D:\Project\MVCProject\CoursesCSharpAdvance\chm\bin\Debug\chm.exe.config
+D:\Project\MVCProject\CoursesCSharpAdvance\chm\bin\Debug\chm.exe
+D:\Project\MVCProject\CoursesCSharpAdvance\chm\bin\Debug\chm.pdb
+D:\Project\MVCProject\CoursesCSharpAdvance\chm\obj\Debug\chm.exe
+D:\Project\MVCProject\CoursesCSharpAdvance\chm\obj\Debug\chm.pdb

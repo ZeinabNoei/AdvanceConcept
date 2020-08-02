@@ -1,0 +1,6 @@
+D:\Project\CoursesCSharpAdvance\PreprocessorDirectives\bin\Debug\PreprocessorDirectives.exe.config
+D:\Project\CoursesCSharpAdvance\PreprocessorDirectives\bin\Debug\PreprocessorDirectives.exe
+D:\Project\CoursesCSharpAdvance\PreprocessorDirectives\bin\Debug\PreprocessorDirectives.pdb
+D:\Project\CoursesCSharpAdvance\PreprocessorDirectives\obj\Debug\PreprocessorDirectives.csproj.CoreCompileInputs.cache
+D:\Project\CoursesCSharpAdvance\PreprocessorDirectives\obj\Debug\PreprocessorDirectives.exe
+D:\Project\CoursesCSharpAdvance\PreprocessorDirectives\obj\Debug\PreprocessorDirectives.pdb

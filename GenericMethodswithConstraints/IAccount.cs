@@ -1,0 +1,8 @@
+﻿
+namespace GenericMethodswithConstraints
+{
+    interface IAccount
+    {
+
+    }
+}

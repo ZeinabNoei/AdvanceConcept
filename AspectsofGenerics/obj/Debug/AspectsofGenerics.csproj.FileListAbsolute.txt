@@ -1,0 +1,12 @@
+D:\Project\CoursesCSharpAdvance\AspectsofGenerics\bin\Debug\AspectsofGenerics.exe.config
+D:\Project\CoursesCSharpAdvance\AspectsofGenerics\bin\Debug\AspectsofGenerics.exe
+D:\Project\CoursesCSharpAdvance\AspectsofGenerics\bin\Debug\AspectsofGenerics.pdb
+D:\Project\CoursesCSharpAdvance\AspectsofGenerics\obj\Debug\AspectsofGenerics.csproj.CoreCompileInputs.cache
+D:\Project\CoursesCSharpAdvance\AspectsofGenerics\obj\Debug\AspectsofGenerics.exe
+D:\Project\CoursesCSharpAdvance\AspectsofGenerics\obj\Debug\AspectsofGenerics.pdb
+D:\Project\MVCProject\CoursesCSharpAdvance\AspectsofGenerics\bin\Debug\AspectsofGenerics.exe.config
+D:\Project\MVCProject\CoursesCSharpAdvance\AspectsofGenerics\bin\Debug\AspectsofGenerics.exe
+D:\Project\MVCProject\CoursesCSharpAdvance\AspectsofGenerics\bin\Debug\AspectsofGenerics.pdb
+D:\Project\MVCProject\CoursesCSharpAdvance\AspectsofGenerics\obj\Debug\AspectsofGenerics.csprojAssemblyReference.cache
+D:\Project\MVCProject\CoursesCSharpAdvance\AspectsofGenerics\obj\Debug\AspectsofGenerics.exe
+D:\Project\MVCProject\CoursesCSharpAdvance\AspectsofGenerics\obj\Debug\AspectsofGenerics.pdb

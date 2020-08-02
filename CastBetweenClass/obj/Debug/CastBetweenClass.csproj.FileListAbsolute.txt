@@ -1,0 +1,11 @@
+D:\Project\CoursesCSharpAdvance\CastBetweenClass\bin\Debug\CastBetweenClass.exe.config
+D:\Project\CoursesCSharpAdvance\CastBetweenClass\bin\Debug\CastBetweenClass.exe
+D:\Project\CoursesCSharpAdvance\CastBetweenClass\bin\Debug\CastBetweenClass.pdb
+D:\Project\CoursesCSharpAdvance\CastBetweenClass\obj\Debug\CastBetweenClass.csproj.CoreCompileInputs.cache
+D:\Project\CoursesCSharpAdvance\CastBetweenClass\obj\Debug\CastBetweenClass.exe
+D:\Project\CoursesCSharpAdvance\CastBetweenClass\obj\Debug\CastBetweenClass.pdb
+D:\Project\MVCProject\CoursesCSharpAdvance\CastBetweenClass\bin\Debug\CastBetweenClass.exe.config
+D:\Project\MVCProject\CoursesCSharpAdvance\CastBetweenClass\bin\Debug\CastBetweenClass.exe
+D:\Project\MVCProject\CoursesCSharpAdvance\CastBetweenClass\bin\Debug\CastBetweenClass.pdb
+D:\Project\MVCProject\CoursesCSharpAdvance\CastBetweenClass\obj\Debug\CastBetweenClass.exe
+D:\Project\MVCProject\CoursesCSharpAdvance\CastBetweenClass\obj\Debug\CastBetweenClass.pdb

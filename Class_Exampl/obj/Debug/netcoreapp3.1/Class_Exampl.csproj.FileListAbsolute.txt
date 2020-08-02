@@ -1,0 +1,11 @@
+D:\Project\MVCProject\CoursesCSharpAdvance\Class_Exampl\bin\Debug\netcoreapp3.1\Class_Exampl.exe
+D:\Project\MVCProject\CoursesCSharpAdvance\Class_Exampl\bin\Debug\netcoreapp3.1\Class_Exampl.deps.json
+D:\Project\MVCProject\CoursesCSharpAdvance\Class_Exampl\bin\Debug\netcoreapp3.1\Class_Exampl.runtimeconfig.json
+D:\Project\MVCProject\CoursesCSharpAdvance\Class_Exampl\bin\Debug\netcoreapp3.1\Class_Exampl.runtimeconfig.dev.json
+D:\Project\MVCProject\CoursesCSharpAdvance\Class_Exampl\bin\Debug\netcoreapp3.1\Class_Exampl.dll
+D:\Project\MVCProject\CoursesCSharpAdvance\Class_Exampl\bin\Debug\netcoreapp3.1\Class_Exampl.pdb
+D:\Project\MVCProject\CoursesCSharpAdvance\Class_Exampl\obj\Debug\netcoreapp3.1\Class_Exampl.AssemblyInfoInputs.cache
+D:\Project\MVCProject\CoursesCSharpAdvance\Class_Exampl\obj\Debug\netcoreapp3.1\Class_Exampl.AssemblyInfo.cs
+D:\Project\MVCProject\CoursesCSharpAdvance\Class_Exampl\obj\Debug\netcoreapp3.1\Class_Exampl.dll
+D:\Project\MVCProject\CoursesCSharpAdvance\Class_Exampl\obj\Debug\netcoreapp3.1\Class_Exampl.pdb
+D:\Project\MVCProject\CoursesCSharpAdvance\Class_Exampl\obj\Debug\netcoreapp3.1\Class_Exampl.csprojAssemblyReference.cache

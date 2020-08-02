@@ -1,0 +1,12 @@
+D:\Project\CoursesCSharpAdvance\NamedArguments\bin\Debug\NamedArguments.exe.config
+D:\Project\CoursesCSharpAdvance\NamedArguments\bin\Debug\NamedArguments.exe
+D:\Project\CoursesCSharpAdvance\NamedArguments\bin\Debug\NamedArguments.pdb
+D:\Project\CoursesCSharpAdvance\NamedArguments\obj\Debug\NamedArguments.csproj.CoreCompileInputs.cache
+D:\Project\CoursesCSharpAdvance\NamedArguments\obj\Debug\NamedArguments.exe
+D:\Project\CoursesCSharpAdvance\NamedArguments\obj\Debug\NamedArguments.pdb
+D:\Project\CoursesCSharpAdvance\NamedArguments\obj\Debug\NamedArguments.csprojAssemblyReference.cache
+D:\Project\MVCProject\CoursesCSharpAdvance\NamedArguments\bin\Debug\NamedArguments.exe.config
+D:\Project\MVCProject\CoursesCSharpAdvance\NamedArguments\bin\Debug\NamedArguments.exe
+D:\Project\MVCProject\CoursesCSharpAdvance\NamedArguments\bin\Debug\NamedArguments.pdb
+D:\Project\MVCProject\CoursesCSharpAdvance\NamedArguments\obj\Debug\NamedArguments.exe
+D:\Project\MVCProject\CoursesCSharpAdvance\NamedArguments\obj\Debug\NamedArguments.pdb

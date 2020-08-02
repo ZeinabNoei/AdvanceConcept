@@ -1,0 +1,7 @@
+D:\Project\CoursesCSharpAdvance\stack\bin\Debug\stack.exe.config
+D:\Project\CoursesCSharpAdvance\stack\bin\Debug\stack.exe
+D:\Project\CoursesCSharpAdvance\stack\bin\Debug\stack.pdb
+D:\Project\CoursesCSharpAdvance\stack\obj\Debug\Stack.csproj.CoreCompileInputs.cache
+D:\Project\CoursesCSharpAdvance\stack\obj\Debug\stack.exe
+D:\Project\CoursesCSharpAdvance\stack\obj\Debug\stack.pdb
+D:\Project\CoursesCSharpAdvance\stack\obj\Debug\Stack.csprojAssemblyReference.cache

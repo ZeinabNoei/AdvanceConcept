@@ -1,0 +1,12 @@
+D:\Project\CoursesCSharpAdvance\Demonstration\bin\Debug\Demonstration.exe.config
+D:\Project\CoursesCSharpAdvance\Demonstration\bin\Debug\Demonstration.exe
+D:\Project\CoursesCSharpAdvance\Demonstration\bin\Debug\Demonstration.pdb
+D:\Project\CoursesCSharpAdvance\Demonstration\obj\Debug\Demonstration.csproj.CoreCompileInputs.cache
+D:\Project\CoursesCSharpAdvance\Demonstration\obj\Debug\Demonstration.exe
+D:\Project\CoursesCSharpAdvance\Demonstration\obj\Debug\Demonstration.pdb
+D:\Project\MVCProject\CoursesCSharpAdvance\Demonstration\bin\Debug\Demonstration.exe.config
+D:\Project\MVCProject\CoursesCSharpAdvance\Demonstration\bin\Debug\Demonstration.exe
+D:\Project\MVCProject\CoursesCSharpAdvance\Demonstration\bin\Debug\Demonstration.pdb
+D:\Project\MVCProject\CoursesCSharpAdvance\Demonstration\obj\Debug\Demonstration.exe
+D:\Project\MVCProject\CoursesCSharpAdvance\Demonstration\obj\Debug\Demonstration.pdb
+D:\Project\MVCProject\CoursesCSharpAdvance\Demonstration\obj\Debug\Demonstration.csprojAssemblyReference.cache

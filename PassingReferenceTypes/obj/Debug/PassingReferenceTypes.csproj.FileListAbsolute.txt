@@ -1,0 +1,6 @@
+D:\Project\CoursesCSharpAdvance\PassingReferenceTypes\bin\Debug\PassingReferenceTypes.exe.config
+D:\Project\CoursesCSharpAdvance\PassingReferenceTypes\bin\Debug\PassingReferenceTypes.exe
+D:\Project\CoursesCSharpAdvance\PassingReferenceTypes\bin\Debug\PassingReferenceTypes.pdb
+D:\Project\CoursesCSharpAdvance\PassingReferenceTypes\obj\Debug\PassingReferenceTypes.csproj.CoreCompileInputs.cache
+D:\Project\CoursesCSharpAdvance\PassingReferenceTypes\obj\Debug\PassingReferenceTypes.exe
+D:\Project\CoursesCSharpAdvance\PassingReferenceTypes\obj\Debug\PassingReferenceTypes.pdb

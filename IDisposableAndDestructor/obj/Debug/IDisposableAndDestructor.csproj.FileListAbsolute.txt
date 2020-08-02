@@ -1,0 +1,12 @@
+D:\Project\CoursesCSharpAdvance\IDisposableAndDestructor\bin\Debug\IDisposableAndDestructor.exe.config
+D:\Project\CoursesCSharpAdvance\IDisposableAndDestructor\bin\Debug\IDisposableAndDestructor.exe
+D:\Project\CoursesCSharpAdvance\IDisposableAndDestructor\bin\Debug\IDisposableAndDestructor.pdb
+D:\Project\CoursesCSharpAdvance\IDisposableAndDestructor\obj\Debug\IDisposableAndDestructor.csproj.CoreCompileInputs.cache
+D:\Project\CoursesCSharpAdvance\IDisposableAndDestructor\obj\Debug\IDisposableAndDestructor.exe
+D:\Project\CoursesCSharpAdvance\IDisposableAndDestructor\obj\Debug\IDisposableAndDestructor.pdb
+D:\Project\MVCProject\CoursesCSharpAdvance\IDisposableAndDestructor\bin\Debug\IDisposableAndDestructor.exe.config
+D:\Project\MVCProject\CoursesCSharpAdvance\IDisposableAndDestructor\bin\Debug\IDisposableAndDestructor.exe
+D:\Project\MVCProject\CoursesCSharpAdvance\IDisposableAndDestructor\bin\Debug\IDisposableAndDestructor.pdb
+D:\Project\MVCProject\CoursesCSharpAdvance\IDisposableAndDestructor\obj\Debug\IDisposableAndDestructor.exe
+D:\Project\MVCProject\CoursesCSharpAdvance\IDisposableAndDestructor\obj\Debug\IDisposableAndDestructor.pdb
+D:\Project\MVCProject\CoursesCSharpAdvance\IDisposableAndDestructor\obj\Debug\IDisposableAndDestructor.csprojAssemblyReference.cache

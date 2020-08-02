@@ -1,0 +1,11 @@
+D:\Project\CoursesCSharpAdvance\EventHandler\bin\Debug\EventHandler.exe.config
+D:\Project\CoursesCSharpAdvance\EventHandler\bin\Debug\EventHandler.exe
+D:\Project\CoursesCSharpAdvance\EventHandler\bin\Debug\EventHandler.pdb
+D:\Project\CoursesCSharpAdvance\EventHandler\obj\Debug\EventHandler.csproj.CoreCompileInputs.cache
+D:\Project\CoursesCSharpAdvance\EventHandler\obj\Debug\EventHandler.exe
+D:\Project\CoursesCSharpAdvance\EventHandler\obj\Debug\EventHandler.pdb
+D:\Project\MVCProject\CoursesCSharpAdvance\EventHandler\bin\Debug\EventHandler.exe.config
+D:\Project\MVCProject\CoursesCSharpAdvance\EventHandler\bin\Debug\EventHandler.exe
+D:\Project\MVCProject\CoursesCSharpAdvance\EventHandler\bin\Debug\EventHandler.pdb
+D:\Project\MVCProject\CoursesCSharpAdvance\EventHandler\obj\Debug\EventHandler.exe
+D:\Project\MVCProject\CoursesCSharpAdvance\EventHandler\obj\Debug\EventHandler.pdb

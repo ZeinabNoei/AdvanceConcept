@@ -1,0 +1,7 @@
+D:\Project\CoursesCSharpAdvance\PassingValueType\bin\Debug\PassingValueType.exe.config
+D:\Project\CoursesCSharpAdvance\PassingValueType\bin\Debug\PassingValueType.exe
+D:\Project\CoursesCSharpAdvance\PassingValueType\bin\Debug\PassingValueType.pdb
+D:\Project\CoursesCSharpAdvance\PassingValueType\obj\Debug\PassingValueType.csproj.CoreCompileInputs.cache
+D:\Project\CoursesCSharpAdvance\PassingValueType\obj\Debug\PassingValueType.exe
+D:\Project\CoursesCSharpAdvance\PassingValueType\obj\Debug\PassingValueType.pdb
+D:\Project\CoursesCSharpAdvance\PassingValueType\obj\Debug\PassingValueType.csprojAssemblyReference.cache

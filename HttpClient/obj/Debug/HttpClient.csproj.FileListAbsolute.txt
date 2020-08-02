@@ -1,0 +1,13 @@
+D:\Project\CoursesCSharpAdvance\HttpClient\bin\Debug\HttpClient.exe.config
+D:\Project\CoursesCSharpAdvance\HttpClient\bin\Debug\HttpClient.exe
+D:\Project\CoursesCSharpAdvance\HttpClient\bin\Debug\HttpClient.pdb
+D:\Project\CoursesCSharpAdvance\HttpClient\obj\Debug\HttpClient.csproj.CoreCompileInputs.cache
+D:\Project\CoursesCSharpAdvance\HttpClient\obj\Debug\HttpClient.exe
+D:\Project\CoursesCSharpAdvance\HttpClient\obj\Debug\HttpClient.pdb
+D:\Project\CoursesCSharpAdvance\HttpClient\obj\Debug\HttpClient.csprojAssemblyReference.cache
+D:\Project\MVCProject\CoursesCSharpAdvance\HttpClient\bin\Debug\HttpClient.exe.config
+D:\Project\MVCProject\CoursesCSharpAdvance\HttpClient\bin\Debug\HttpClient.exe
+D:\Project\MVCProject\CoursesCSharpAdvance\HttpClient\bin\Debug\HttpClient.pdb
+D:\Project\MVCProject\CoursesCSharpAdvance\HttpClient\obj\Debug\HttpClient.exe
+D:\Project\MVCProject\CoursesCSharpAdvance\HttpClient\obj\Debug\HttpClient.pdb
+D:\Project\MVCProject\CoursesCSharpAdvance\HttpClient\obj\Debug\HttpClient.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+D:\Project\CoursesCSharpAdvance\Document\bin\Debug\Document.exe.config
+D:\Project\CoursesCSharpAdvance\Document\bin\Debug\Document.exe
+D:\Project\CoursesCSharpAdvance\Document\bin\Debug\Document.pdb
+D:\Project\CoursesCSharpAdvance\Document\obj\Debug\Document.csproj.CoreCompileInputs.cache
+D:\Project\CoursesCSharpAdvance\Document\obj\Debug\Document.exe
+D:\Project\CoursesCSharpAdvance\Document\obj\Debug\Document.pdb
+D:\Project\MVCProject\CoursesCSharpAdvance\Document\bin\Debug\Document.exe.config
+D:\Project\MVCProject\CoursesCSharpAdvance\Document\bin\Debug\Document.exe
+D:\Project\MVCProject\CoursesCSharpAdvance\Document\bin\Debug\Document.pdb
+D:\Project\MVCProject\CoursesCSharpAdvance\Document\obj\Debug\Document.exe
+D:\Project\MVCProject\CoursesCSharpAdvance\Document\obj\Debug\Document.pdb

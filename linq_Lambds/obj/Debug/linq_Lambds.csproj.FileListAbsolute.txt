@@ -1,0 +1,11 @@
+D:\Project\CoursesCSharpAdvance\linq_Lambds\bin\Debug\linq_Lambds.exe.config
+D:\Project\CoursesCSharpAdvance\linq_Lambds\bin\Debug\linq_Lambds.exe
+D:\Project\CoursesCSharpAdvance\linq_Lambds\bin\Debug\linq_Lambds.pdb
+D:\Project\CoursesCSharpAdvance\linq_Lambds\obj\Debug\linq_Lambds.csproj.CoreCompileInputs.cache
+D:\Project\CoursesCSharpAdvance\linq_Lambds\obj\Debug\linq_Lambds.exe
+D:\Project\CoursesCSharpAdvance\linq_Lambds\obj\Debug\linq_Lambds.pdb
+D:\Project\MVCProject\CoursesCSharpAdvance\linq_Lambds\bin\Debug\linq_Lambds.exe.config
+D:\Project\MVCProject\CoursesCSharpAdvance\linq_Lambds\bin\Debug\linq_Lambds.exe
+D:\Project\MVCProject\CoursesCSharpAdvance\linq_Lambds\bin\Debug\linq_Lambds.pdb
+D:\Project\MVCProject\CoursesCSharpAdvance\linq_Lambds\obj\Debug\linq_Lambds.exe
+D:\Project\MVCProject\CoursesCSharpAdvance\linq_Lambds\obj\Debug\linq_Lambds.pdb

@@ -1,0 +1,11 @@
+D:\Project\CoursesCSharpAdvance\LambdaExpressions\bin\Debug\LambdaExpressions.exe.config
+D:\Project\CoursesCSharpAdvance\LambdaExpressions\bin\Debug\LambdaExpressions.exe
+D:\Project\CoursesCSharpAdvance\LambdaExpressions\bin\Debug\LambdaExpressions.pdb
+D:\Project\CoursesCSharpAdvance\LambdaExpressions\obj\Debug\LambdaExpressions.csproj.CoreCompileInputs.cache
+D:\Project\CoursesCSharpAdvance\LambdaExpressions\obj\Debug\LambdaExpressions.exe
+D:\Project\CoursesCSharpAdvance\LambdaExpressions\obj\Debug\LambdaExpressions.pdb
+D:\Project\MVCProject\CoursesCSharpAdvance\LambdaExpressions\bin\Debug\LambdaExpressions.exe.config
+D:\Project\MVCProject\CoursesCSharpAdvance\LambdaExpressions\bin\Debug\LambdaExpressions.exe
+D:\Project\MVCProject\CoursesCSharpAdvance\LambdaExpressions\bin\Debug\LambdaExpressions.pdb
+D:\Project\MVCProject\CoursesCSharpAdvance\LambdaExpressions\obj\Debug\LambdaExpressions.exe
+D:\Project\MVCProject\CoursesCSharpAdvance\LambdaExpressions\obj\Debug\LambdaExpressions.pdb

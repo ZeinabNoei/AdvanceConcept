@@ -1,0 +1,11 @@
+D:\Project\CoursesCSharpAdvance\lambda\bin\Debug\lambda.exe.config
+D:\Project\CoursesCSharpAdvance\lambda\bin\Debug\lambda.exe
+D:\Project\CoursesCSharpAdvance\lambda\bin\Debug\lambda.pdb
+D:\Project\CoursesCSharpAdvance\lambda\obj\Debug\lambda.csproj.CoreCompileInputs.cache
+D:\Project\CoursesCSharpAdvance\lambda\obj\Debug\lambda.exe
+D:\Project\CoursesCSharpAdvance\lambda\obj\Debug\lambda.pdb
+D:\Project\MVCProject\CoursesCSharpAdvance\lambda\bin\Debug\lambda.exe.config
+D:\Project\MVCProject\CoursesCSharpAdvance\lambda\bin\Debug\lambda.exe
+D:\Project\MVCProject\CoursesCSharpAdvance\lambda\bin\Debug\lambda.pdb
+D:\Project\MVCProject\CoursesCSharpAdvance\lambda\obj\Debug\lambda.exe
+D:\Project\MVCProject\CoursesCSharpAdvance\lambda\obj\Debug\lambda.pdb

@@ -1,0 +1,26 @@
+\\HEMINGWAY\Users\Bill\Documents\Wiley\Professional C# 2010\New Code\502259 Code CH14\WhatsNewAttributes\bin\Debug\WhatsNewAttributes.dll
+\\HEMINGWAY\Users\Bill\Documents\Wiley\Professional C# 2010\New Code\502259 Code CH14\WhatsNewAttributes\bin\Debug\WhatsNewAttributes.pdb
+\\HEMINGWAY\Users\Bill\Documents\Wiley\Professional C# 2010\New Code\502259 Code CH14\WhatsNewAttributes\obj\Debug\ResolveAssemblyReference.cache
+\\HEMINGWAY\Users\Bill\Documents\Wiley\Professional C# 2010\New Code\502259 Code CH14\WhatsNewAttributes\obj\Debug\WhatsNewAttributes.dll
+\\HEMINGWAY\Users\Bill\Documents\Wiley\Professional C# 2010\New Code\502259 Code CH14\WhatsNewAttributes\obj\Debug\WhatsNewAttributes.pdb
+C:\Users\ghazarian\Desktop\502259 Code CH14\WhatsNewAttributes\bin\Debug\WhatsNewAttributes.dll
+C:\Users\ghazarian\Desktop\502259 Code CH14\WhatsNewAttributes\bin\Debug\WhatsNewAttributes.pdb
+C:\Users\ghazarian\Desktop\502259 Code CH14\WhatsNewAttributes\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ghazarian\Desktop\502259 Code CH14\WhatsNewAttributes\obj\Debug\WhatsNewAttributes.dll
+C:\Users\ghazarian\Desktop\502259 Code CH14\WhatsNewAttributes\obj\Debug\WhatsNewAttributes.pdb
+D:\Share\MrAbi\Reflection\WhatsNewAttributes\bin\Debug\WhatsNewAttributes.dll
+D:\Share\MrAbi\Reflection\WhatsNewAttributes\bin\Debug\WhatsNewAttributes.pdb
+D:\Share\MrAbi\Reflection\WhatsNewAttributes\obj\Debug\WhatsNewAttributes.csprojAssemblyReference.cache
+D:\Share\MrAbi\Reflection\WhatsNewAttributes\obj\Debug\WhatsNewAttributes.csproj.CoreCompileInputs.cache
+D:\Share\MrAbi\Reflection\WhatsNewAttributes\obj\Debug\WhatsNewAttributes.dll
+D:\Share\MrAbi\Reflection\WhatsNewAttributes\obj\Debug\WhatsNewAttributes.pdb
+D:\Project\CoursesCSharpAdvance\Reflection\WhatsNewAttributes\bin\Debug\WhatsNewAttributes.dll
+D:\Project\CoursesCSharpAdvance\Reflection\WhatsNewAttributes\bin\Debug\WhatsNewAttributes.pdb
+D:\Project\CoursesCSharpAdvance\Reflection\WhatsNewAttributes\obj\Debug\WhatsNewAttributes.csprojAssemblyReference.cache
+D:\Project\CoursesCSharpAdvance\Reflection\WhatsNewAttributes\obj\Debug\WhatsNewAttributes.csproj.CoreCompileInputs.cache
+D:\Project\CoursesCSharpAdvance\Reflection\WhatsNewAttributes\obj\Debug\WhatsNewAttributes.dll
+D:\Project\CoursesCSharpAdvance\Reflection\WhatsNewAttributes\obj\Debug\WhatsNewAttributes.pdb
+D:\Project\MVCProject\CoursesCSharpAdvance\Reflection\WhatsNewAttributes\bin\Debug\WhatsNewAttributes.dll
+D:\Project\MVCProject\CoursesCSharpAdvance\Reflection\WhatsNewAttributes\bin\Debug\WhatsNewAttributes.pdb
+D:\Project\MVCProject\CoursesCSharpAdvance\Reflection\WhatsNewAttributes\obj\Debug\WhatsNewAttributes.dll
+D:\Project\MVCProject\CoursesCSharpAdvance\Reflection\WhatsNewAttributes\obj\Debug\WhatsNewAttributes.pdb

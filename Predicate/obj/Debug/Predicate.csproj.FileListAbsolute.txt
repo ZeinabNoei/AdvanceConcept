@@ -1,0 +1,11 @@
+D:\Project\CoursesCSharpAdvance\Predicate\bin\Debug\Predicate.exe.config
+D:\Project\CoursesCSharpAdvance\Predicate\bin\Debug\Predicate.exe
+D:\Project\CoursesCSharpAdvance\Predicate\bin\Debug\Predicate.pdb
+D:\Project\CoursesCSharpAdvance\Predicate\obj\Debug\Predicate.csproj.CoreCompileInputs.cache
+D:\Project\CoursesCSharpAdvance\Predicate\obj\Debug\Predicate.exe
+D:\Project\CoursesCSharpAdvance\Predicate\obj\Debug\Predicate.pdb
+D:\Project\MVCProject\CoursesCSharpAdvance\Predicate\bin\Debug\Predicate.exe.config
+D:\Project\MVCProject\CoursesCSharpAdvance\Predicate\bin\Debug\Predicate.exe
+D:\Project\MVCProject\CoursesCSharpAdvance\Predicate\bin\Debug\Predicate.pdb
+D:\Project\MVCProject\CoursesCSharpAdvance\Predicate\obj\Debug\Predicate.exe
+D:\Project\MVCProject\CoursesCSharpAdvance\Predicate\obj\Debug\Predicate.pdb

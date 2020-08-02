@@ -1,0 +1,27 @@
+C:\ProC#\ch12\ErrorExample\bin\Debug\ErrorExample.exe
+C:\ProC#\ch12\ErrorExample\bin\Debug\ErrorExample.pdb
+C:\ProC#\ch12\ErrorExample\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\ProC#\ch12\ErrorExample\obj\x86\Debug\ErrorExample.exe
+C:\ProC#\ch12\ErrorExample\obj\x86\Debug\ErrorExample.pdb
+C:\Users\ghazarian\Desktop\502259 Code Ch12\ErrorExample\bin\Debug\ErrorExample.exe
+C:\Users\ghazarian\Desktop\502259 Code Ch12\ErrorExample\bin\Debug\ErrorExample.pdb
+C:\Users\ghazarian\Desktop\502259 Code Ch12\ErrorExample\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ghazarian\Desktop\502259 Code Ch12\ErrorExample\obj\x86\Debug\ErrorExample.exe
+C:\Users\ghazarian\Desktop\502259 Code Ch12\ErrorExample\obj\x86\Debug\ErrorExample.pdb
+K:\Library\usef\Mr Abi\Dynamics\ErrorExample\bin\Debug\ErrorExample.exe
+K:\Library\usef\Mr Abi\Dynamics\ErrorExample\bin\Debug\ErrorExample.pdb
+K:\Library\usef\Mr Abi\Dynamics\ErrorExample\obj\x86\Debug\ErrorExample.csprojResolveAssemblyReference.cache
+K:\Library\usef\Mr Abi\Dynamics\ErrorExample\obj\x86\Debug\ErrorExample.csproj.CoreCompileInputs.cache
+K:\Library\usef\Mr Abi\Dynamics\ErrorExample\obj\x86\Debug\ErrorExample.exe
+K:\Library\usef\Mr Abi\Dynamics\ErrorExample\obj\x86\Debug\ErrorExample.pdb
+D:\Share\Dynamics\ErrorExample\bin\Debug\ErrorExample.exe
+D:\Share\Dynamics\ErrorExample\bin\Debug\ErrorExample.pdb
+D:\Share\Dynamics\ErrorExample\obj\x86\Debug\ErrorExample.csprojAssemblyReference.cache
+D:\Share\Dynamics\ErrorExample\obj\x86\Debug\ErrorExample.csproj.CoreCompileInputs.cache
+D:\Share\Dynamics\ErrorExample\obj\x86\Debug\ErrorExample.exe
+D:\Share\Dynamics\ErrorExample\obj\x86\Debug\ErrorExample.pdb
+D:\Share\MrAbi\Dynamics\ErrorExample\bin\Debug\ErrorExample.exe
+D:\Share\MrAbi\Dynamics\ErrorExample\bin\Debug\ErrorExample.pdb
+D:\Share\MrAbi\Dynamics\ErrorExample\obj\x86\Debug\ErrorExample.csprojResolveAssemblyReference.cache
+D:\Share\MrAbi\Dynamics\ErrorExample\obj\x86\Debug\ErrorExample.exe
+D:\Share\MrAbi\Dynamics\ErrorExample\obj\x86\Debug\ErrorExample.pdb

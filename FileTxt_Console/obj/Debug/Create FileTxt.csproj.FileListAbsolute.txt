@@ -1,0 +1,6 @@
+D:\Project\MVCProject\CoursesCSharpAdvance\FileTxt_Console\bin\Debug\FileTxt_Console.exe.config
+D:\Project\MVCProject\CoursesCSharpAdvance\FileTxt_Console\bin\Debug\FileTxt_Console.exe
+D:\Project\MVCProject\CoursesCSharpAdvance\FileTxt_Console\bin\Debug\FileTxt_Console.pdb
+D:\Project\MVCProject\CoursesCSharpAdvance\FileTxt_Console\obj\Debug\FileTxt_Console.exe
+D:\Project\MVCProject\CoursesCSharpAdvance\FileTxt_Console\obj\Debug\FileTxt_Console.pdb
+D:\Project\MVCProject\CoursesCSharpAdvance\FileTxt_Console\obj\Debug\Create FileTxt.csprojAssemblyReference.cache

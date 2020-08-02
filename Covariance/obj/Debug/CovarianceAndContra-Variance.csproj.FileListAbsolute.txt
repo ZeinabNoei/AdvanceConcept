@@ -1,0 +1,11 @@
+D:\Project\CoursesCSharpAdvance\Covariance\bin\Debug\Covariance.exe.config
+D:\Project\CoursesCSharpAdvance\Covariance\bin\Debug\Covariance.exe
+D:\Project\CoursesCSharpAdvance\Covariance\bin\Debug\Covariance.pdb
+D:\Project\CoursesCSharpAdvance\Covariance\obj\Debug\CovarianceAndContra-Variance.csproj.CoreCompileInputs.cache
+D:\Project\CoursesCSharpAdvance\Covariance\obj\Debug\Covariance.exe
+D:\Project\CoursesCSharpAdvance\Covariance\obj\Debug\Covariance.pdb
+D:\Project\MVCProject\CoursesCSharpAdvance\Covariance\bin\Debug\Covariance.exe.config
+D:\Project\MVCProject\CoursesCSharpAdvance\Covariance\bin\Debug\Covariance.exe
+D:\Project\MVCProject\CoursesCSharpAdvance\Covariance\bin\Debug\Covariance.pdb
+D:\Project\MVCProject\CoursesCSharpAdvance\Covariance\obj\Debug\Covariance.exe
+D:\Project\MVCProject\CoursesCSharpAdvance\Covariance\obj\Debug\Covariance.pdb

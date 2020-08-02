@@ -1,0 +1,11 @@
+D:\Project\CoursesCSharpAdvance\OperatorsAndCasts\bin\Debug\OperatorsAndCasts.exe.config
+D:\Project\CoursesCSharpAdvance\OperatorsAndCasts\bin\Debug\OperatorsAndCasts.exe
+D:\Project\CoursesCSharpAdvance\OperatorsAndCasts\bin\Debug\OperatorsAndCasts.pdb
+D:\Project\CoursesCSharpAdvance\OperatorsAndCasts\obj\Debug\OperatorsAndCasts.csproj.CoreCompileInputs.cache
+D:\Project\CoursesCSharpAdvance\OperatorsAndCasts\obj\Debug\OperatorsAndCasts.exe
+D:\Project\CoursesCSharpAdvance\OperatorsAndCasts\obj\Debug\OperatorsAndCasts.pdb
+D:\Project\MVCProject\CoursesCSharpAdvance\OperatorsAndCasts\bin\Debug\OperatorsAndCasts.exe.config
+D:\Project\MVCProject\CoursesCSharpAdvance\OperatorsAndCasts\bin\Debug\OperatorsAndCasts.exe
+D:\Project\MVCProject\CoursesCSharpAdvance\OperatorsAndCasts\bin\Debug\OperatorsAndCasts.pdb
+D:\Project\MVCProject\CoursesCSharpAdvance\OperatorsAndCasts\obj\Debug\OperatorsAndCasts.exe
+D:\Project\MVCProject\CoursesCSharpAdvance\OperatorsAndCasts\obj\Debug\OperatorsAndCasts.pdb

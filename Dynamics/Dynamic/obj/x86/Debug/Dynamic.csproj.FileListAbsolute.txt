@@ -1,0 +1,27 @@
+C:\ProC#\ch12\Dynamic\bin\Debug\Dynamic.exe
+C:\ProC#\ch12\Dynamic\bin\Debug\Dynamic.pdb
+C:\ProC#\ch12\Dynamic\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\ProC#\ch12\Dynamic\obj\x86\Debug\Dynamic.exe
+C:\ProC#\ch12\Dynamic\obj\x86\Debug\Dynamic.pdb
+C:\Users\ghazarian\Desktop\502259 Code Ch12\Dynamic\obj\x86\Debug\Dynamic.exe
+C:\Users\ghazarian\Desktop\502259 Code Ch12\Dynamic\obj\x86\Debug\Dynamic.pdb
+C:\Users\ghazarian\Desktop\502259 Code Ch12\Dynamic\bin\Debug\Dynamic.exe
+C:\Users\ghazarian\Desktop\502259 Code Ch12\Dynamic\bin\Debug\Dynamic.pdb
+C:\Users\ghazarian\Desktop\502259 Code Ch12\Dynamic\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\Library\usef\Mr Abi\Dynamics\Dynamic\bin\Debug\Dynamic.exe
+K:\Library\usef\Mr Abi\Dynamics\Dynamic\bin\Debug\Dynamic.pdb
+K:\Library\usef\Mr Abi\Dynamics\Dynamic\obj\x86\Debug\Dynamic.csprojResolveAssemblyReference.cache
+K:\Library\usef\Mr Abi\Dynamics\Dynamic\obj\x86\Debug\Dynamic.csproj.CoreCompileInputs.cache
+K:\Library\usef\Mr Abi\Dynamics\Dynamic\obj\x86\Debug\Dynamic.exe
+K:\Library\usef\Mr Abi\Dynamics\Dynamic\obj\x86\Debug\Dynamic.pdb
+D:\Share\Dynamics\Dynamic\bin\Debug\Dynamic.exe
+D:\Share\Dynamics\Dynamic\bin\Debug\Dynamic.pdb
+D:\Share\Dynamics\Dynamic\obj\x86\Debug\Dynamic.csprojAssemblyReference.cache
+D:\Share\Dynamics\Dynamic\obj\x86\Debug\Dynamic.csproj.CoreCompileInputs.cache
+D:\Share\Dynamics\Dynamic\obj\x86\Debug\Dynamic.exe
+D:\Share\Dynamics\Dynamic\obj\x86\Debug\Dynamic.pdb
+D:\Share\MrAbi\Dynamics\Dynamic\bin\Debug\Dynamic.exe
+D:\Share\MrAbi\Dynamics\Dynamic\bin\Debug\Dynamic.pdb
+D:\Share\MrAbi\Dynamics\Dynamic\obj\x86\Debug\Dynamic.csprojResolveAssemblyReference.cache
+D:\Share\MrAbi\Dynamics\Dynamic\obj\x86\Debug\Dynamic.exe
+D:\Share\MrAbi\Dynamics\Dynamic\obj\x86\Debug\Dynamic.pdb

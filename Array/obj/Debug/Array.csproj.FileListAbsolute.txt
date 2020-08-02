@@ -1,0 +1,2 @@
+D:\Project\CoursesCSharpAdvance\Array\obj\Debug\Array.csprojAssemblyReference.cache
+D:\Project\CoursesCSharpAdvance\Array\obj\Debug\Array.csproj.CoreCompileInputs.cache

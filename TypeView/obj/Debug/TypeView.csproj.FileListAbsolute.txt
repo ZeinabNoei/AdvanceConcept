@@ -1,0 +1,1 @@
+D:\Project\CoursesCSharpAdvance\TypeView\obj\Debug\TypeView.csproj.CoreCompileInputs.cache

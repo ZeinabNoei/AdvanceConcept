@@ -1,0 +1,12 @@
+D:\Project\CoursesCSharpAdvance\Arrays\bin\Debug\Arrays.exe.config
+D:\Project\CoursesCSharpAdvance\Arrays\bin\Debug\Arrays.exe
+D:\Project\CoursesCSharpAdvance\Arrays\bin\Debug\Arrays.pdb
+D:\Project\CoursesCSharpAdvance\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+D:\Project\CoursesCSharpAdvance\Arrays\obj\Debug\Arrays.exe
+D:\Project\CoursesCSharpAdvance\Arrays\obj\Debug\Arrays.pdb
+D:\Project\CoursesCSharpAdvance\Arrays\obj\Debug\Arrays.csprojAssemblyReference.cache
+D:\Project\MVCProject\CoursesCSharpAdvance\Arrays\bin\Debug\Arrays.exe.config
+D:\Project\MVCProject\CoursesCSharpAdvance\Arrays\bin\Debug\Arrays.exe
+D:\Project\MVCProject\CoursesCSharpAdvance\Arrays\bin\Debug\Arrays.pdb
+D:\Project\MVCProject\CoursesCSharpAdvance\Arrays\obj\Debug\Arrays.exe
+D:\Project\MVCProject\CoursesCSharpAdvance\Arrays\obj\Debug\Arrays.pdb

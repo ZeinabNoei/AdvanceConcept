@@ -1,0 +1,10 @@
+C:\Users\ghazarian\Desktop\502259 Code Ch12\DLRHost\DLRHost\bin\Debug\DLRHost.exe.config
+C:\Users\ghazarian\Desktop\502259 Code Ch12\DLRHost\DLRHost\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ghazarian\Desktop\502259 Code Ch12\DLRHost\DLRHost\obj\x86\Debug\Window1.baml
+C:\Users\ghazarian\Desktop\502259 Code Ch12\DLRHost\DLRHost\obj\x86\Debug\Window1.g.cs
+C:\Users\ghazarian\Desktop\502259 Code Ch12\DLRHost\DLRHost\obj\x86\Debug\App.g.cs
+C:\Users\ghazarian\Desktop\502259 Code Ch12\DLRHost\DLRHost\obj\x86\Debug\DLRHost_MarkupCompile.cache
+C:\Users\ghazarian\Desktop\502259 Code Ch12\DLRHost\DLRHost\obj\x86\Debug\DLRHost.g.resources
+C:\Users\ghazarian\Desktop\502259 Code Ch12\DLRHost\DLRHost\obj\x86\Debug\DLRHost.Properties.Resources.resources
+C:\Users\ghazarian\Desktop\502259 Code Ch12\DLRHost\DLRHost\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ghazarian\Desktop\502259 Code Ch12\DLRHost\DLRHost\obj\x86\Debug\GenerateResource.write.1.tlog

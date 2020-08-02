@@ -1,0 +1,6 @@
+D:\Project\CoursesCSharpAdvance\AnonymousMethods\bin\Debug\AnonymousMethods.exe.config
+D:\Project\CoursesCSharpAdvance\AnonymousMethods\bin\Debug\AnonymousMethods.exe
+D:\Project\CoursesCSharpAdvance\AnonymousMethods\bin\Debug\AnonymousMethods.pdb
+D:\Project\CoursesCSharpAdvance\AnonymousMethods\obj\Debug\AnonymousMethods.csproj.CoreCompileInputs.cache
+D:\Project\CoursesCSharpAdvance\AnonymousMethods\obj\Debug\AnonymousMethods.exe
+D:\Project\CoursesCSharpAdvance\AnonymousMethods\obj\Debug\AnonymousMethods.pdb

@@ -1,0 +1,11 @@
+D:\Project\CoursesCSharpAdvance\Params\bin\Debug\Params.exe.config
+D:\Project\CoursesCSharpAdvance\Params\bin\Debug\Params.exe
+D:\Project\CoursesCSharpAdvance\Params\bin\Debug\Params.pdb
+D:\Project\CoursesCSharpAdvance\Params\obj\Debug\Params.csproj.CoreCompileInputs.cache
+D:\Project\CoursesCSharpAdvance\Params\obj\Debug\Params.exe
+D:\Project\CoursesCSharpAdvance\Params\obj\Debug\Params.pdb
+D:\Project\MVCProject\CoursesCSharpAdvance\Params\bin\Debug\Params.exe.config
+D:\Project\MVCProject\CoursesCSharpAdvance\Params\bin\Debug\Params.exe
+D:\Project\MVCProject\CoursesCSharpAdvance\Params\bin\Debug\Params.pdb
+D:\Project\MVCProject\CoursesCSharpAdvance\Params\obj\Debug\Params.exe
+D:\Project\MVCProject\CoursesCSharpAdvance\Params\obj\Debug\Params.pdb

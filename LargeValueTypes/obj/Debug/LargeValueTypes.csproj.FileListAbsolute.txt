@@ -1,0 +1,6 @@
+D:\Project\CoursesCSharpAdvance\LargeValueTypes\bin\Debug\LargeValueTypes.exe.config
+D:\Project\CoursesCSharpAdvance\LargeValueTypes\bin\Debug\LargeValueTypes.exe
+D:\Project\CoursesCSharpAdvance\LargeValueTypes\bin\Debug\LargeValueTypes.pdb
+D:\Project\CoursesCSharpAdvance\LargeValueTypes\obj\Debug\LargeValueTypes.csproj.CoreCompileInputs.cache
+D:\Project\CoursesCSharpAdvance\LargeValueTypes\obj\Debug\LargeValueTypes.exe
+D:\Project\CoursesCSharpAdvance\LargeValueTypes\obj\Debug\LargeValueTypes.pdb

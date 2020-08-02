@@ -1,0 +1,6 @@
+D:\Project\CoursesCSharpAdvance\GenericInterfaces\bin\Debug\GenericInterfaces.exe.config
+D:\Project\CoursesCSharpAdvance\GenericInterfaces\bin\Debug\GenericInterfaces.exe
+D:\Project\CoursesCSharpAdvance\GenericInterfaces\bin\Debug\GenericInterfaces.pdb
+D:\Project\CoursesCSharpAdvance\GenericInterfaces\obj\Debug\GenericInterfaces.csproj.CoreCompileInputs.cache
+D:\Project\CoursesCSharpAdvance\GenericInterfaces\obj\Debug\GenericInterfaces.exe
+D:\Project\CoursesCSharpAdvance\GenericInterfaces\obj\Debug\GenericInterfaces.pdb

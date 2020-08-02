@@ -1,0 +1,14 @@
+D:\Project\MVCProject\CoursesCSharpAdvance\BestPractice\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\Project\MVCProject\CoursesCSharpAdvance\BestPractice\bin\Debug\netcoreapp2.1\BestPractice.deps.json
+D:\Project\MVCProject\CoursesCSharpAdvance\BestPractice\bin\Debug\netcoreapp2.1\BestPractice.runtimeconfig.json
+D:\Project\MVCProject\CoursesCSharpAdvance\BestPractice\bin\Debug\netcoreapp2.1\BestPractice.runtimeconfig.dev.json
+D:\Project\MVCProject\CoursesCSharpAdvance\BestPractice\bin\Debug\netcoreapp2.1\BestPractice.dll
+D:\Project\MVCProject\CoursesCSharpAdvance\BestPractice\bin\Debug\netcoreapp2.1\BestPractice.pdb
+D:\Project\MVCProject\CoursesCSharpAdvance\BestPractice\obj\Debug\netcoreapp2.1\BestPractice.csprojAssemblyReference.cache
+D:\Project\MVCProject\CoursesCSharpAdvance\BestPractice\obj\Debug\netcoreapp2.1\BestPractice.RazorAssemblyInfo.cache
+D:\Project\MVCProject\CoursesCSharpAdvance\BestPractice\obj\Debug\netcoreapp2.1\BestPractice.RazorAssemblyInfo.cs
+D:\Project\MVCProject\CoursesCSharpAdvance\BestPractice\obj\Debug\netcoreapp2.1\BestPractice.AssemblyInfoInputs.cache
+D:\Project\MVCProject\CoursesCSharpAdvance\BestPractice\obj\Debug\netcoreapp2.1\BestPractice.AssemblyInfo.cs
+D:\Project\MVCProject\CoursesCSharpAdvance\BestPractice\obj\Debug\netcoreapp2.1\BestPractice.RazorTargetAssemblyInfo.cache
+D:\Project\MVCProject\CoursesCSharpAdvance\BestPractice\obj\Debug\netcoreapp2.1\BestPractice.dll
+D:\Project\MVCProject\CoursesCSharpAdvance\BestPractice\obj\Debug\netcoreapp2.1\BestPractice.pdb

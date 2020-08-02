@@ -1,0 +1,10 @@
+D:\Project\MVCProject\CoursesCSharpAdvance\Property_Example\bin\Debug\netcoreapp3.1\Property_Example.exe
+D:\Project\MVCProject\CoursesCSharpAdvance\Property_Example\bin\Debug\netcoreapp3.1\Property_Example.deps.json
+D:\Project\MVCProject\CoursesCSharpAdvance\Property_Example\bin\Debug\netcoreapp3.1\Property_Example.runtimeconfig.json
+D:\Project\MVCProject\CoursesCSharpAdvance\Property_Example\bin\Debug\netcoreapp3.1\Property_Example.runtimeconfig.dev.json
+D:\Project\MVCProject\CoursesCSharpAdvance\Property_Example\bin\Debug\netcoreapp3.1\Property_Example.dll
+D:\Project\MVCProject\CoursesCSharpAdvance\Property_Example\bin\Debug\netcoreapp3.1\Property_Example.pdb
+D:\Project\MVCProject\CoursesCSharpAdvance\Property_Example\obj\Debug\netcoreapp3.1\Property_Example.AssemblyInfoInputs.cache
+D:\Project\MVCProject\CoursesCSharpAdvance\Property_Example\obj\Debug\netcoreapp3.1\Property_Example.AssemblyInfo.cs
+D:\Project\MVCProject\CoursesCSharpAdvance\Property_Example\obj\Debug\netcoreapp3.1\Property_Example.dll
+D:\Project\MVCProject\CoursesCSharpAdvance\Property_Example\obj\Debug\netcoreapp3.1\Property_Example.pdb

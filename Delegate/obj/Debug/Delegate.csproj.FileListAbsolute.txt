@@ -1,0 +1,11 @@
+D:\Project\CoursesCSharpAdvance\Delegate\bin\Debug\Delegate.exe.config
+D:\Project\CoursesCSharpAdvance\Delegate\bin\Debug\Delegate.exe
+D:\Project\CoursesCSharpAdvance\Delegate\bin\Debug\Delegate.pdb
+D:\Project\CoursesCSharpAdvance\Delegate\obj\Debug\Delegate.csproj.CoreCompileInputs.cache
+D:\Project\CoursesCSharpAdvance\Delegate\obj\Debug\Delegate.exe
+D:\Project\CoursesCSharpAdvance\Delegate\obj\Debug\Delegate.pdb
+D:\Project\MVCProject\CoursesCSharpAdvance\Delegate\bin\Debug\Delegate.exe.config
+D:\Project\MVCProject\CoursesCSharpAdvance\Delegate\bin\Debug\Delegate.exe
+D:\Project\MVCProject\CoursesCSharpAdvance\Delegate\bin\Debug\Delegate.pdb
+D:\Project\MVCProject\CoursesCSharpAdvance\Delegate\obj\Debug\Delegate.exe
+D:\Project\MVCProject\CoursesCSharpAdvance\Delegate\obj\Debug\Delegate.pdb

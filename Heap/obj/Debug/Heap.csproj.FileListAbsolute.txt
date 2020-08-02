@@ -1,0 +1,7 @@
+D:\Project\CoursesCSharpAdvance\Heap\bin\Debug\Heap.exe.config
+D:\Project\CoursesCSharpAdvance\Heap\bin\Debug\Heap.exe
+D:\Project\CoursesCSharpAdvance\Heap\bin\Debug\Heap.pdb
+D:\Project\CoursesCSharpAdvance\Heap\obj\Debug\Heap.csproj.CoreCompileInputs.cache
+D:\Project\CoursesCSharpAdvance\Heap\obj\Debug\Heap.exe
+D:\Project\CoursesCSharpAdvance\Heap\obj\Debug\Heap.pdb
+D:\Project\CoursesCSharpAdvance\Heap\obj\Debug\Heap.csprojAssemblyReference.cache

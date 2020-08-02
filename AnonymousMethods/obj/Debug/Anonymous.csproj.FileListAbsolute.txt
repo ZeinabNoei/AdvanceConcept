@@ -1,0 +1,5 @@
+D:\Project\MVCProject\CoursesCSharpAdvance\AnonymousMethods\bin\Debug\AnonymousMethods.exe.config
+D:\Project\MVCProject\CoursesCSharpAdvance\AnonymousMethods\bin\Debug\AnonymousMethods.exe
+D:\Project\MVCProject\CoursesCSharpAdvance\AnonymousMethods\bin\Debug\AnonymousMethods.pdb
+D:\Project\MVCProject\CoursesCSharpAdvance\AnonymousMethods\obj\Debug\AnonymousMethods.exe
+D:\Project\MVCProject\CoursesCSharpAdvance\AnonymousMethods\obj\Debug\AnonymousMethods.pdb

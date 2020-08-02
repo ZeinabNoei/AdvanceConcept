@@ -1,0 +1,11 @@
+D:\Project\CoursesCSharpAdvance\Linq_Example\bin\Debug\Linq_Example.exe.config
+D:\Project\CoursesCSharpAdvance\Linq_Example\bin\Debug\Linq_Example.exe
+D:\Project\CoursesCSharpAdvance\Linq_Example\bin\Debug\Linq_Example.pdb
+D:\Project\CoursesCSharpAdvance\Linq_Example\obj\Debug\Linq_Example.csproj.CoreCompileInputs.cache
+D:\Project\CoursesCSharpAdvance\Linq_Example\obj\Debug\Linq_Example.exe
+D:\Project\CoursesCSharpAdvance\Linq_Example\obj\Debug\Linq_Example.pdb
+D:\Project\MVCProject\CoursesCSharpAdvance\Linq_Example\bin\Debug\Linq_Example.exe.config
+D:\Project\MVCProject\CoursesCSharpAdvance\Linq_Example\bin\Debug\Linq_Example.exe
+D:\Project\MVCProject\CoursesCSharpAdvance\Linq_Example\bin\Debug\Linq_Example.pdb
+D:\Project\MVCProject\CoursesCSharpAdvance\Linq_Example\obj\Debug\Linq_Example.exe
+D:\Project\MVCProject\CoursesCSharpAdvance\Linq_Example\obj\Debug\Linq_Example.pdb

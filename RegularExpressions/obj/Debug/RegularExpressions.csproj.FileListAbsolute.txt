@@ -1,0 +1,11 @@
+D:\Project\CoursesCSharpAdvance\RegularExpressions\bin\Debug\RegularExpressions.exe.config
+D:\Project\CoursesCSharpAdvance\RegularExpressions\bin\Debug\RegularExpressions.exe
+D:\Project\CoursesCSharpAdvance\RegularExpressions\bin\Debug\RegularExpressions.pdb
+D:\Project\CoursesCSharpAdvance\RegularExpressions\obj\Debug\RegularExpressions.csproj.CoreCompileInputs.cache
+D:\Project\CoursesCSharpAdvance\RegularExpressions\obj\Debug\RegularExpressions.exe
+D:\Project\CoursesCSharpAdvance\RegularExpressions\obj\Debug\RegularExpressions.pdb
+D:\Project\MVCProject\CoursesCSharpAdvance\RegularExpressions\bin\Debug\RegularExpressions.exe.config
+D:\Project\MVCProject\CoursesCSharpAdvance\RegularExpressions\bin\Debug\RegularExpressions.exe
+D:\Project\MVCProject\CoursesCSharpAdvance\RegularExpressions\bin\Debug\RegularExpressions.pdb
+D:\Project\MVCProject\CoursesCSharpAdvance\RegularExpressions\obj\Debug\RegularExpressions.exe
+D:\Project\MVCProject\CoursesCSharpAdvance\RegularExpressions\obj\Debug\RegularExpressions.pdb

@@ -1,0 +1,12 @@
+D:\Project\CoursesCSharpAdvance\Casting\bin\Debug\Casting.exe.config
+D:\Project\CoursesCSharpAdvance\Casting\bin\Debug\Casting.exe
+D:\Project\CoursesCSharpAdvance\Casting\bin\Debug\Casting.pdb
+D:\Project\CoursesCSharpAdvance\Casting\obj\Debug\Casting.csproj.CoreCompileInputs.cache
+D:\Project\CoursesCSharpAdvance\Casting\obj\Debug\Casting.exe
+D:\Project\CoursesCSharpAdvance\Casting\obj\Debug\Casting.pdb
+D:\Project\CoursesCSharpAdvance\Casting\obj\Debug\Casting.csprojAssemblyReference.cache
+D:\Project\MVCProject\CoursesCSharpAdvance\Casting\bin\Debug\Casting.exe.config
+D:\Project\MVCProject\CoursesCSharpAdvance\Casting\bin\Debug\Casting.exe
+D:\Project\MVCProject\CoursesCSharpAdvance\Casting\bin\Debug\Casting.pdb
+D:\Project\MVCProject\CoursesCSharpAdvance\Casting\obj\Debug\Casting.exe
+D:\Project\MVCProject\CoursesCSharpAdvance\Casting\obj\Debug\Casting.pdb

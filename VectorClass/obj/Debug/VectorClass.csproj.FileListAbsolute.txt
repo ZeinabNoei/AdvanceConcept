@@ -1,0 +1,1 @@
+D:\Project\CoursesCSharpAdvance\VectorClass\obj\Debug\VectorClass.csproj.CoreCompileInputs.cache

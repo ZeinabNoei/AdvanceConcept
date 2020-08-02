@@ -1,0 +1,26 @@
+\\HEMINGWAY\Users\Bill\Documents\Wiley\Professional C# 2010\New Code\502259 Code CH14\TypeView\TypeView\bin\Debug\TypeView.exe
+\\HEMINGWAY\Users\Bill\Documents\Wiley\Professional C# 2010\New Code\502259 Code CH14\TypeView\TypeView\bin\Debug\TypeView.pdb
+\\HEMINGWAY\Users\Bill\Documents\Wiley\Professional C# 2010\New Code\502259 Code CH14\TypeView\TypeView\obj\Debug\ResolveAssemblyReference.cache
+\\HEMINGWAY\Users\Bill\Documents\Wiley\Professional C# 2010\New Code\502259 Code CH14\TypeView\TypeView\obj\Debug\TypeView.exe
+\\HEMINGWAY\Users\Bill\Documents\Wiley\Professional C# 2010\New Code\502259 Code CH14\TypeView\TypeView\obj\Debug\TypeView.pdb
+C:\Users\ghazarian\Desktop\502259 Code CH14\TypeView\TypeView\obj\Debug\TypeView.exe
+C:\Users\ghazarian\Desktop\502259 Code CH14\TypeView\TypeView\obj\Debug\TypeView.pdb
+C:\Users\ghazarian\Desktop\502259 Code CH14\TypeView\TypeView\bin\Debug\TypeView.exe
+C:\Users\ghazarian\Desktop\502259 Code CH14\TypeView\TypeView\bin\Debug\TypeView.pdb
+C:\Users\ghazarian\Desktop\502259 Code CH14\TypeView\TypeView\obj\Debug\ResolveAssemblyReference.cache
+D:\Share\MrAbi\Reflection\TypeView\TypeView\bin\Debug\TypeView.exe
+D:\Share\MrAbi\Reflection\TypeView\TypeView\bin\Debug\TypeView.pdb
+D:\Share\MrAbi\Reflection\TypeView\TypeView\obj\Debug\TypeView.csprojAssemblyReference.cache
+D:\Share\MrAbi\Reflection\TypeView\TypeView\obj\Debug\TypeView.csproj.CoreCompileInputs.cache
+D:\Share\MrAbi\Reflection\TypeView\TypeView\obj\Debug\TypeView.exe
+D:\Share\MrAbi\Reflection\TypeView\TypeView\obj\Debug\TypeView.pdb
+D:\Project\CoursesCSharpAdvance\Reflection\TypeView\TypeView\bin\Debug\TypeView.exe
+D:\Project\CoursesCSharpAdvance\Reflection\TypeView\TypeView\bin\Debug\TypeView.pdb
+D:\Project\CoursesCSharpAdvance\Reflection\TypeView\TypeView\obj\Debug\TypeView.csprojAssemblyReference.cache
+D:\Project\CoursesCSharpAdvance\Reflection\TypeView\TypeView\obj\Debug\TypeView.csproj.CoreCompileInputs.cache
+D:\Project\CoursesCSharpAdvance\Reflection\TypeView\TypeView\obj\Debug\TypeView.exe
+D:\Project\CoursesCSharpAdvance\Reflection\TypeView\TypeView\obj\Debug\TypeView.pdb
+D:\Project\MVCProject\CoursesCSharpAdvance\Reflection\TypeView\TypeView\bin\Debug\TypeView.exe
+D:\Project\MVCProject\CoursesCSharpAdvance\Reflection\TypeView\TypeView\bin\Debug\TypeView.pdb
+D:\Project\MVCProject\CoursesCSharpAdvance\Reflection\TypeView\TypeView\obj\Debug\TypeView.exe
+D:\Project\MVCProject\CoursesCSharpAdvance\Reflection\TypeView\TypeView\obj\Debug\TypeView.pdb

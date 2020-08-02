@@ -1,0 +1,13 @@
+D:\Project\CoursesCSharpAdvance\Events\bin\Debug\Events.exe.config
+D:\Project\CoursesCSharpAdvance\Events\bin\Debug\Events.exe
+D:\Project\CoursesCSharpAdvance\Events\bin\Debug\Events.pdb
+D:\Project\CoursesCSharpAdvance\Events\obj\Debug\Events.csproj.CoreCompileInputs.cache
+D:\Project\CoursesCSharpAdvance\Events\obj\Debug\Events.exe
+D:\Project\CoursesCSharpAdvance\Events\obj\Debug\Events.pdb
+D:\Project\CoursesCSharpAdvance\Events\obj\Debug\Events.csprojAssemblyReference.cache
+D:\Project\MVCProject\CoursesCSharpAdvance\Events\bin\Debug\Events.exe.config
+D:\Project\MVCProject\CoursesCSharpAdvance\Events\bin\Debug\Events.exe
+D:\Project\MVCProject\CoursesCSharpAdvance\Events\bin\Debug\Events.pdb
+D:\Project\MVCProject\CoursesCSharpAdvance\Events\obj\Debug\Events.csprojAssemblyReference.cache
+D:\Project\MVCProject\CoursesCSharpAdvance\Events\obj\Debug\Events.exe
+D:\Project\MVCProject\CoursesCSharpAdvance\Events\obj\Debug\Events.pdb

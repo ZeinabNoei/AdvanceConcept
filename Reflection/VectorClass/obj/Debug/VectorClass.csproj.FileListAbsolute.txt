@@ -1,0 +1,40 @@
+\\HEMINGWAY\Users\Bill\Documents\Wiley\Professional C# 2010\New Code\502259 Code CH14\VectorClass\bin\Debug\VectorClass.dll
+\\HEMINGWAY\Users\Bill\Documents\Wiley\Professional C# 2010\New Code\502259 Code CH14\VectorClass\bin\Debug\VectorClass.pdb
+\\HEMINGWAY\Users\Bill\Documents\Wiley\Professional C# 2010\New Code\502259 Code CH14\VectorClass\bin\Debug\WhatsNewAttributes.dll
+\\HEMINGWAY\Users\Bill\Documents\Wiley\Professional C# 2010\New Code\502259 Code CH14\VectorClass\bin\Debug\WhatsNewAttributes.pdb
+\\HEMINGWAY\Users\Bill\Documents\Wiley\Professional C# 2010\New Code\502259 Code CH14\VectorClass\obj\Debug\ResolveAssemblyReference.cache
+\\HEMINGWAY\Users\Bill\Documents\Wiley\Professional C# 2010\New Code\502259 Code CH14\VectorClass\obj\Debug\VectorClass.dll
+\\HEMINGWAY\Users\Bill\Documents\Wiley\Professional C# 2010\New Code\502259 Code CH14\VectorClass\obj\Debug\VectorClass.pdb
+C:\Users\ghazarian\Desktop\502259 Code CH14\VectorClass\bin\Debug\VectorClass.dll
+C:\Users\ghazarian\Desktop\502259 Code CH14\VectorClass\bin\Debug\VectorClass.pdb
+C:\Users\ghazarian\Desktop\502259 Code CH14\VectorClass\bin\Debug\WhatsNewAttributes.dll
+C:\Users\ghazarian\Desktop\502259 Code CH14\VectorClass\bin\Debug\WhatsNewAttributes.pdb
+C:\Users\ghazarian\Desktop\502259 Code CH14\VectorClass\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ghazarian\Desktop\502259 Code CH14\VectorClass\obj\Debug\VectorClass.dll
+C:\Users\ghazarian\Desktop\502259 Code CH14\VectorClass\obj\Debug\VectorClass.pdb
+D:\Share\MrAbi\Reflection\VectorClass\bin\Debug\VectorClass.dll
+D:\Share\MrAbi\Reflection\VectorClass\bin\Debug\VectorClass.pdb
+D:\Share\MrAbi\Reflection\VectorClass\bin\Debug\WhatsNewAttributes.dll
+D:\Share\MrAbi\Reflection\VectorClass\bin\Debug\WhatsNewAttributes.pdb
+D:\Share\MrAbi\Reflection\VectorClass\obj\Debug\VectorClass.csprojAssemblyReference.cache
+D:\Share\MrAbi\Reflection\VectorClass\obj\Debug\VectorClass.csproj.CoreCompileInputs.cache
+D:\Share\MrAbi\Reflection\VectorClass\obj\Debug\VectorClass.csproj.CopyComplete
+D:\Share\MrAbi\Reflection\VectorClass\obj\Debug\VectorClass.dll
+D:\Share\MrAbi\Reflection\VectorClass\obj\Debug\VectorClass.pdb
+D:\Project\CoursesCSharpAdvance\Reflection\VectorClass\bin\Debug\VectorClass.dll
+D:\Project\CoursesCSharpAdvance\Reflection\VectorClass\bin\Debug\VectorClass.pdb
+D:\Project\CoursesCSharpAdvance\Reflection\VectorClass\bin\Debug\WhatsNewAttributes.dll
+D:\Project\CoursesCSharpAdvance\Reflection\VectorClass\bin\Debug\WhatsNewAttributes.pdb
+D:\Project\CoursesCSharpAdvance\Reflection\VectorClass\obj\Debug\VectorClass.csprojAssemblyReference.cache
+D:\Project\CoursesCSharpAdvance\Reflection\VectorClass\obj\Debug\VectorClass.csproj.CoreCompileInputs.cache
+D:\Project\CoursesCSharpAdvance\Reflection\VectorClass\obj\Debug\VectorClass.csproj.CopyComplete
+D:\Project\CoursesCSharpAdvance\Reflection\VectorClass\obj\Debug\VectorClass.dll
+D:\Project\CoursesCSharpAdvance\Reflection\VectorClass\obj\Debug\VectorClass.pdb
+D:\Project\MVCProject\CoursesCSharpAdvance\Reflection\VectorClass\bin\Debug\VectorClass.dll
+D:\Project\MVCProject\CoursesCSharpAdvance\Reflection\VectorClass\bin\Debug\VectorClass.pdb
+D:\Project\MVCProject\CoursesCSharpAdvance\Reflection\VectorClass\bin\Debug\WhatsNewAttributes.dll
+D:\Project\MVCProject\CoursesCSharpAdvance\Reflection\VectorClass\bin\Debug\WhatsNewAttributes.pdb
+D:\Project\MVCProject\CoursesCSharpAdvance\Reflection\VectorClass\obj\Debug\VectorClass.csprojAssemblyReference.cache
+D:\Project\MVCProject\CoursesCSharpAdvance\Reflection\VectorClass\obj\Debug\VectorClass.csproj.CopyComplete
+D:\Project\MVCProject\CoursesCSharpAdvance\Reflection\VectorClass\obj\Debug\VectorClass.dll
+D:\Project\MVCProject\CoursesCSharpAdvance\Reflection\VectorClass\obj\Debug\VectorClass.pdb

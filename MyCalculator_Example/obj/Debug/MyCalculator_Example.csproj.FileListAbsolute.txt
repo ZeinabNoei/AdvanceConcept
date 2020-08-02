@@ -1,0 +1,9 @@
+D:\Project\MVCProject\CoursesCSharpAdvance\MyCalculator_Example\bin\Debug\MyCalculator_Example.exe.config
+D:\Project\MVCProject\CoursesCSharpAdvance\MyCalculator_Example\bin\Debug\MyCalculator_Example.exe
+D:\Project\MVCProject\CoursesCSharpAdvance\MyCalculator_Example\bin\Debug\MyCalculator_Example.pdb
+D:\Project\MVCProject\CoursesCSharpAdvance\MyCalculator_Example\obj\Debug\MyCalculator_Example.Form1.resources
+D:\Project\MVCProject\CoursesCSharpAdvance\MyCalculator_Example\obj\Debug\MyCalculator_Example.Properties.Resources.resources
+D:\Project\MVCProject\CoursesCSharpAdvance\MyCalculator_Example\obj\Debug\MyCalculator_Example.csproj.GenerateResource.cache
+D:\Project\MVCProject\CoursesCSharpAdvance\MyCalculator_Example\obj\Debug\MyCalculator_Example.exe
+D:\Project\MVCProject\CoursesCSharpAdvance\MyCalculator_Example\obj\Debug\MyCalculator_Example.pdb
+D:\Project\MVCProject\CoursesCSharpAdvance\MyCalculator_Example\obj\Debug\MyCalculator_Example.csprojAssemblyReference.cache

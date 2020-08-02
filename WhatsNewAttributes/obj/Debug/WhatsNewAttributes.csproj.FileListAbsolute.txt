@@ -1,0 +1,2 @@
+D:\Project\CoursesCSharpAdvance\WhatsNewAttributes\obj\Debug\WhatsNewAttributes.csprojAssemblyReference.cache
+D:\Project\CoursesCSharpAdvance\WhatsNewAttributes\obj\Debug\WhatsNewAttributes.csproj.CoreCompileInputs.cache

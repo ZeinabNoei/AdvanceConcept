@@ -1,0 +1,6 @@
+D:\Project\CoursesCSharpAdvance\StaticConstructors\bin\Debug\StaticConstructors.exe.config
+D:\Project\CoursesCSharpAdvance\StaticConstructors\bin\Debug\StaticConstructors.exe
+D:\Project\CoursesCSharpAdvance\StaticConstructors\bin\Debug\StaticConstructors.pdb
+D:\Project\CoursesCSharpAdvance\StaticConstructors\obj\Debug\StaticConstructors.csproj.CoreCompileInputs.cache
+D:\Project\CoursesCSharpAdvance\StaticConstructors\obj\Debug\StaticConstructors.exe
+D:\Project\CoursesCSharpAdvance\StaticConstructors\obj\Debug\StaticConstructors.pdb

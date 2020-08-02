@@ -1,0 +1,11 @@
+D:\Project\CoursesCSharpAdvance\Linq\bin\Debug\Linq.exe.config
+D:\Project\CoursesCSharpAdvance\Linq\bin\Debug\Linq.exe
+D:\Project\CoursesCSharpAdvance\Linq\bin\Debug\Linq.pdb
+D:\Project\CoursesCSharpAdvance\Linq\obj\Debug\Linq.csproj.CoreCompileInputs.cache
+D:\Project\CoursesCSharpAdvance\Linq\obj\Debug\Linq.exe
+D:\Project\CoursesCSharpAdvance\Linq\obj\Debug\Linq.pdb
+D:\Project\MVCProject\CoursesCSharpAdvance\Linq\bin\Debug\Linq.exe.config
+D:\Project\MVCProject\CoursesCSharpAdvance\Linq\bin\Debug\Linq.exe
+D:\Project\MVCProject\CoursesCSharpAdvance\Linq\bin\Debug\Linq.pdb
+D:\Project\MVCProject\CoursesCSharpAdvance\Linq\obj\Debug\Linq.exe
+D:\Project\MVCProject\CoursesCSharpAdvance\Linq\obj\Debug\Linq.pdb

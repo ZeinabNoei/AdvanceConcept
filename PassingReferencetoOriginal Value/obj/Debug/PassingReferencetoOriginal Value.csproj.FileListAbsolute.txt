@@ -1,0 +1,6 @@
+D:\Project\CoursesCSharpAdvance\PassingReferencetoOriginal Value\bin\Debug\PassingReferencetoOriginal Value.exe.config
+D:\Project\CoursesCSharpAdvance\PassingReferencetoOriginal Value\bin\Debug\PassingReferencetoOriginal Value.exe
+D:\Project\CoursesCSharpAdvance\PassingReferencetoOriginal Value\bin\Debug\PassingReferencetoOriginal Value.pdb
+D:\Project\CoursesCSharpAdvance\PassingReferencetoOriginal Value\obj\Debug\PassingReferencetoOriginal Value.csproj.CoreCompileInputs.cache
+D:\Project\CoursesCSharpAdvance\PassingReferencetoOriginal Value\obj\Debug\PassingReferencetoOriginal Value.exe
+D:\Project\CoursesCSharpAdvance\PassingReferencetoOriginal Value\obj\Debug\PassingReferencetoOriginal Value.pdb

@@ -1,0 +1,11 @@
+D:\Project\CoursesCSharpAdvance\BubbleSorterExercise\bin\Debug\BubbleSorterExercise.exe.config
+D:\Project\CoursesCSharpAdvance\BubbleSorterExercise\bin\Debug\BubbleSorterExercise.exe
+D:\Project\CoursesCSharpAdvance\BubbleSorterExercise\bin\Debug\BubbleSorterExercise.pdb
+D:\Project\CoursesCSharpAdvance\BubbleSorterExercise\obj\Debug\BubbleSorterExercise.csproj.CoreCompileInputs.cache
+D:\Project\CoursesCSharpAdvance\BubbleSorterExercise\obj\Debug\BubbleSorterExercise.exe
+D:\Project\CoursesCSharpAdvance\BubbleSorterExercise\obj\Debug\BubbleSorterExercise.pdb
+D:\Project\MVCProject\CoursesCSharpAdvance\BubbleSorterExercise\bin\Debug\BubbleSorterExercise.exe.config
+D:\Project\MVCProject\CoursesCSharpAdvance\BubbleSorterExercise\bin\Debug\BubbleSorterExercise.exe
+D:\Project\MVCProject\CoursesCSharpAdvance\BubbleSorterExercise\bin\Debug\BubbleSorterExercise.pdb
+D:\Project\MVCProject\CoursesCSharpAdvance\BubbleSorterExercise\obj\Debug\BubbleSorterExercise.exe
+D:\Project\MVCProject\CoursesCSharpAdvance\BubbleSorterExercise\obj\Debug\BubbleSorterExercise.pdb

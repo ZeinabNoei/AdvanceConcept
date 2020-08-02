@@ -1,0 +1,11 @@
+D:\Project\CoursesCSharpAdvance\Singleton\bin\Debug\Singleton.exe.config
+D:\Project\CoursesCSharpAdvance\Singleton\bin\Debug\Singleton.exe
+D:\Project\CoursesCSharpAdvance\Singleton\bin\Debug\Singleton.pdb
+D:\Project\CoursesCSharpAdvance\Singleton\obj\Debug\Singleton.csproj.CoreCompileInputs.cache
+D:\Project\CoursesCSharpAdvance\Singleton\obj\Debug\Singleton.exe
+D:\Project\CoursesCSharpAdvance\Singleton\obj\Debug\Singleton.pdb
+D:\Project\MVCProject\CoursesCSharpAdvance\Singleton\bin\Debug\Singleton.exe.config
+D:\Project\MVCProject\CoursesCSharpAdvance\Singleton\bin\Debug\Singleton.exe
+D:\Project\MVCProject\CoursesCSharpAdvance\Singleton\bin\Debug\Singleton.pdb
+D:\Project\MVCProject\CoursesCSharpAdvance\Singleton\obj\Debug\Singleton.exe
+D:\Project\MVCProject\CoursesCSharpAdvance\Singleton\obj\Debug\Singleton.pdb

@@ -1,0 +1,10 @@
+D:\Project\MVCProject\CoursesCSharpAdvance\Convert_Example\bin\Debug\netcoreapp3.1\Convert_Example.exe
+D:\Project\MVCProject\CoursesCSharpAdvance\Convert_Example\bin\Debug\netcoreapp3.1\Convert_Example.deps.json
+D:\Project\MVCProject\CoursesCSharpAdvance\Convert_Example\bin\Debug\netcoreapp3.1\Convert_Example.runtimeconfig.json
+D:\Project\MVCProject\CoursesCSharpAdvance\Convert_Example\bin\Debug\netcoreapp3.1\Convert_Example.runtimeconfig.dev.json
+D:\Project\MVCProject\CoursesCSharpAdvance\Convert_Example\bin\Debug\netcoreapp3.1\Convert_Example.dll
+D:\Project\MVCProject\CoursesCSharpAdvance\Convert_Example\bin\Debug\netcoreapp3.1\Convert_Example.pdb
+D:\Project\MVCProject\CoursesCSharpAdvance\Convert_Example\obj\Debug\netcoreapp3.1\Convert_Example.AssemblyInfoInputs.cache
+D:\Project\MVCProject\CoursesCSharpAdvance\Convert_Example\obj\Debug\netcoreapp3.1\Convert_Example.AssemblyInfo.cs
+D:\Project\MVCProject\CoursesCSharpAdvance\Convert_Example\obj\Debug\netcoreapp3.1\Convert_Example.dll
+D:\Project\MVCProject\CoursesCSharpAdvance\Convert_Example\obj\Debug\netcoreapp3.1\Convert_Example.pdb

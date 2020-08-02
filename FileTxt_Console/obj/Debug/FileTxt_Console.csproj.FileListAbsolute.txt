@@ -1,0 +1,13 @@
+D:\Project\CoursesCSharpAdvance\FileTxt_Console\bin\Debug\FileTxt_Console.exe.config
+D:\Project\CoursesCSharpAdvance\FileTxt_Console\bin\Debug\FileTxt_Console.exe
+D:\Project\CoursesCSharpAdvance\FileTxt_Console\bin\Debug\FileTxt_Console.pdb
+D:\Project\CoursesCSharpAdvance\FileTxt_Console\obj\Debug\FileTxt_Console.csproj.CoreCompileInputs.cache
+D:\Project\CoursesCSharpAdvance\FileTxt_Console\obj\Debug\FileTxt_Console.exe
+D:\Project\CoursesCSharpAdvance\FileTxt_Console\obj\Debug\FileTxt_Console.pdb
+D:\Project\CoursesCSharpAdvance\FileTxt_Console\obj\Debug\FileTxt_Console.csprojAssemblyReference.cache
+D:\Project\MVCProject\CoursesCSharpAdvance\FileTxt_Console\bin\Debug\FileTxt_Console.exe.config
+D:\Project\MVCProject\CoursesCSharpAdvance\FileTxt_Console\bin\Debug\FileTxt_Console.exe
+D:\Project\MVCProject\CoursesCSharpAdvance\FileTxt_Console\bin\Debug\FileTxt_Console.pdb
+D:\Project\MVCProject\CoursesCSharpAdvance\FileTxt_Console\obj\Debug\FileTxt_Console.csprojAssemblyReference.cache
+D:\Project\MVCProject\CoursesCSharpAdvance\FileTxt_Console\obj\Debug\FileTxt_Console.exe
+D:\Project\MVCProject\CoursesCSharpAdvance\FileTxt_Console\obj\Debug\FileTxt_Console.pdb

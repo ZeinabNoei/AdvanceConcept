@@ -1,0 +1,11 @@
+D:\Project\CoursesCSharpAdvance\SimpleCurrency\bin\Debug\SimpleCurrency.exe.config
+D:\Project\CoursesCSharpAdvance\SimpleCurrency\bin\Debug\SimpleCurrency.exe
+D:\Project\CoursesCSharpAdvance\SimpleCurrency\bin\Debug\SimpleCurrency.pdb
+D:\Project\CoursesCSharpAdvance\SimpleCurrency\obj\Debug\SimpleCurrency.csproj.CoreCompileInputs.cache
+D:\Project\CoursesCSharpAdvance\SimpleCurrency\obj\Debug\SimpleCurrency.exe
+D:\Project\CoursesCSharpAdvance\SimpleCurrency\obj\Debug\SimpleCurrency.pdb
+D:\Project\MVCProject\CoursesCSharpAdvance\SimpleCurrency\bin\Debug\SimpleCurrency.exe.config
+D:\Project\MVCProject\CoursesCSharpAdvance\SimpleCurrency\bin\Debug\SimpleCurrency.exe
+D:\Project\MVCProject\CoursesCSharpAdvance\SimpleCurrency\bin\Debug\SimpleCurrency.pdb
+D:\Project\MVCProject\CoursesCSharpAdvance\SimpleCurrency\obj\Debug\SimpleCurrency.exe
+D:\Project\MVCProject\CoursesCSharpAdvance\SimpleCurrency\obj\Debug\SimpleCurrency.pdb

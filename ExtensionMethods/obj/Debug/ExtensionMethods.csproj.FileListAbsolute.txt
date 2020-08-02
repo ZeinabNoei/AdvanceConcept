@@ -1,0 +1,6 @@
+D:\Project\CoursesCSharpAdvance\ExtensionMethods\bin\Debug\ExtensionMethods.exe.config
+D:\Project\CoursesCSharpAdvance\ExtensionMethods\bin\Debug\ExtensionMethods.exe
+D:\Project\CoursesCSharpAdvance\ExtensionMethods\bin\Debug\ExtensionMethods.pdb
+D:\Project\CoursesCSharpAdvance\ExtensionMethods\obj\Debug\ExtensionMethods.csproj.CoreCompileInputs.cache
+D:\Project\CoursesCSharpAdvance\ExtensionMethods\obj\Debug\ExtensionMethods.exe
+D:\Project\CoursesCSharpAdvance\ExtensionMethods\obj\Debug\ExtensionMethods.pdb

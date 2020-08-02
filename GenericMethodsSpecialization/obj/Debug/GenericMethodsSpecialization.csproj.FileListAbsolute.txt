@@ -1,0 +1,11 @@
+D:\Project\CoursesCSharpAdvance\GenericMethodsSpecialization\bin\Debug\GenericMethodsSpecialization.exe.config
+D:\Project\CoursesCSharpAdvance\GenericMethodsSpecialization\bin\Debug\GenericMethodsSpecialization.exe
+D:\Project\CoursesCSharpAdvance\GenericMethodsSpecialization\bin\Debug\GenericMethodsSpecialization.pdb
+D:\Project\CoursesCSharpAdvance\GenericMethodsSpecialization\obj\Debug\GenericMethodsSpecialization.csproj.CoreCompileInputs.cache
+D:\Project\CoursesCSharpAdvance\GenericMethodsSpecialization\obj\Debug\GenericMethodsSpecialization.exe
+D:\Project\CoursesCSharpAdvance\GenericMethodsSpecialization\obj\Debug\GenericMethodsSpecialization.pdb
+D:\Project\MVCProject\CoursesCSharpAdvance\GenericMethodsSpecialization\bin\Debug\GenericMethodsSpecialization.exe.config
+D:\Project\MVCProject\CoursesCSharpAdvance\GenericMethodsSpecialization\bin\Debug\GenericMethodsSpecialization.exe
+D:\Project\MVCProject\CoursesCSharpAdvance\GenericMethodsSpecialization\bin\Debug\GenericMethodsSpecialization.pdb
+D:\Project\MVCProject\CoursesCSharpAdvance\GenericMethodsSpecialization\obj\Debug\GenericMethodsSpecialization.exe
+D:\Project\MVCProject\CoursesCSharpAdvance\GenericMethodsSpecialization\obj\Debug\GenericMethodsSpecialization.pdb

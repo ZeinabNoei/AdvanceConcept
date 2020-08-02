@@ -1,0 +1,10 @@
+D:\Project\MVCProject\CoursesCSharpAdvance\Switch_Example\bin\Debug\netcoreapp3.1\Switch_Example.exe
+D:\Project\MVCProject\CoursesCSharpAdvance\Switch_Example\bin\Debug\netcoreapp3.1\Switch_Example.deps.json
+D:\Project\MVCProject\CoursesCSharpAdvance\Switch_Example\bin\Debug\netcoreapp3.1\Switch_Example.runtimeconfig.json
+D:\Project\MVCProject\CoursesCSharpAdvance\Switch_Example\bin\Debug\netcoreapp3.1\Switch_Example.runtimeconfig.dev.json
+D:\Project\MVCProject\CoursesCSharpAdvance\Switch_Example\bin\Debug\netcoreapp3.1\Switch_Example.dll
+D:\Project\MVCProject\CoursesCSharpAdvance\Switch_Example\bin\Debug\netcoreapp3.1\Switch_Example.pdb
+D:\Project\MVCProject\CoursesCSharpAdvance\Switch_Example\obj\Debug\netcoreapp3.1\Switch_Example.AssemblyInfoInputs.cache
+D:\Project\MVCProject\CoursesCSharpAdvance\Switch_Example\obj\Debug\netcoreapp3.1\Switch_Example.AssemblyInfo.cs
+D:\Project\MVCProject\CoursesCSharpAdvance\Switch_Example\obj\Debug\netcoreapp3.1\Switch_Example.dll
+D:\Project\MVCProject\CoursesCSharpAdvance\Switch_Example\obj\Debug\netcoreapp3.1\Switch_Example.pdb
